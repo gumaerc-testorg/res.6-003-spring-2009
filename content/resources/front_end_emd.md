@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-6-003-electromechanical-dynamics-spring-2009/f5850d2e5cb74cfb7bbc8e6e3066bc9c_front_end_emd.pdf
+file: /media/courses/res-6-003-electromechanical-dynamics-spring-2009/f5850d2e5cb74cfb7bbc8e6e3066bc9c_front_end_emd.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Front-End Matter
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: front_end_emd.pdf
 uid: f5850d2e-5cb7-4cfb-7bbc-8e6e3066bc9c

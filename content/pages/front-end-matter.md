@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Front-End Matter
 uid: fabe9528-ce14-5a10-ee30-dd48227318ee
 ---

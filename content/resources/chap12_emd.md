@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-6-003-electromechanical-dynamics-spring-2009/7130586cd10eb0ebe4c6712132bfbcb9_chap12_emd.pdf
+file: /media/courses/res-6-003-electromechanical-dynamics-spring-2009/7130586cd10eb0ebe4c6712132bfbcb9_chap12_emd.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Part III
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: chap12_emd.pdf
 uid: 7130586c-d10e-b0eb-e4c6-712132bfbcb9
