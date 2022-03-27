@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Part III
 parent_type: SupplementalResourceSection
+parent_uid: 9c7251fe-89b1-1564-8b0e-7487e6d13a70
 resourcetype: Document
 title: chap14_emd.pdf
 uid: 4507f267-db52-8756-bbae-162f5d0d62cf

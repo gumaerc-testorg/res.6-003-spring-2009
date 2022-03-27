@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Front-End Matter
 parent_type: SupplementalResourceSection
+parent_uid: fabe9528-ce14-5a10-ee30-dd48227318ee
 resourcetype: Document
 title: front_end_emd.pdf
 uid: f5850d2e-5cb7-4cfb-7bbc-8e6e3066bc9c

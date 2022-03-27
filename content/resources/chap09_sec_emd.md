@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Part II
 parent_type: SupplementalResourceSection
+parent_uid: ae8c689a-272b-773e-55dc-102ad16a0390
 resourcetype: Document
 title: chap09_sec_emd.pdf
 uid: 88a79b06-7885-206f-8fe7-f5baf69fe226

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Part III
 parent_type: SupplementalResourceSection
+parent_uid: 9c7251fe-89b1-1564-8b0e-7487e6d13a70
 resourcetype: Document
 title: chap11_prb_emd.pdf
 uid: 3e907eac-7c91-b4d8-1de6-1eeb5553dd64

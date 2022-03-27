@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Solutions Manual
 parent_type: SupplementalResourceSection
+parent_uid: 33a5d91a-affd-85a4-f422-354366c45231
 resourcetype: Document
 title: emdsoln_01_ta.pdf
 uid: abc71003-9a6d-921f-5de3-22c9ea70aec5
