@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-6-003-electromechanical-dynamics-spring-2009/30694a678fc3bf6fc974e329ab1f0571_chap01_emd.pdf
+file: /courses/res-6-003-electromechanical-dynamics-spring-2009/30694a678fc3bf6fc974e329ab1f0571_chap01_emd.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

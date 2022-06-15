@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'Part III: Elastic and Fluid Media: Chapter 11: Introduction to the Electromechanics
+  of Elastic Media, Chapter 12: Electromechanics of Incompressible, Inviscid Fluids,
+  Chapter 13: Electromechanics of Compressible, Inviscid Fluids, and Chapter 14: Electromechanical
+  Coupling with Viscous Fluids.'
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Part III
@@ -30,7 +34,7 @@ FILES
 **Chapter 11: Introduction to the Electromechanics of Elastic Media, pp. 651-723**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 4.0MB]({{< baseurl >}}/resources/chap11_emd))
+({{% resource_link f4197a8d-035b-5bfe-e662-4138374e133f "PDF - 4.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,9 +50,9 @@ FILES
 Problems, pp. 718-723
 {{< tdclose >}}
 {{< tdopen >}}
-Sections 11.1-11.17 ([PDF - 3.7MB]({{< baseurl >}}/resources/chap11_sec_emd))  
+Sections 11.1-11.17 ({{% resource_link 9eccbbfd-73ed-ac7d-4465-d523f82140c2 "PDF - 3.7MB" %}})  
   
-Problems ([PDF]({{< baseurl >}}/resources/chap11_prb_emd))
+Problems ({{% resource_link 3e907eac-7c91-b4d8-1de6-1eeb5553dd64 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +61,7 @@ Problems ([PDF]({{< baseurl >}}/resources/chap11_prb_emd))
 **Chapter 12: Electromechanics of Incompressible, Inviscid Fluids, pp. 724-812**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.9MB]({{< baseurl >}}/resources/chap12_emd))
+({{% resource_link 7130586c-d10e-b0eb-e4c6-712132bfbcb9 "PDF - 3.9MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,9 +75,9 @@ Problems ([PDF]({{< baseurl >}}/resources/chap11_prb_emd))
 Problems, pp. 789-812
 {{< tdclose >}}
 {{< tdopen >}}
-Sections 12.0-12.4 ([PDF - 3.2MB]({{< baseurl >}}/resources/chap12_sec_emd))  
+Sections 12.0-12.4 ({{% resource_link 4d8d54bf-791b-3831-db26-9b9c344acbcb "PDF - 3.2MB" %}})  
   
-Problems ([PDF - 1.7MB]({{< baseurl >}}/resources/chap12_prb_emd))
+Problems ({{% resource_link 27de6daa-001b-bc99-8193-9850bd19b5d6 "PDF - 1.7MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +86,7 @@ Problems ([PDF - 1.7MB]({{< baseurl >}}/resources/chap12_prb_emd))
 **Chapter 13: Electromechanics of Compressible, Inviscid Fluids, pp. 813-860**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.0MB]({{< baseurl >}}/resources/chap13_emd))
+({{% resource_link 910d6d9e-4e21-1ad8-d6c1-b13c9e0ae459 "PDF - 2.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,9 +99,9 @@ Problems ([PDF - 1.7MB]({{< baseurl >}}/resources/chap12_prb_emd))
 Problems, pp. 854-860
 {{< tdclose >}}
 {{< tdopen >}}
-Sections 13.0-13.3 ([PDF - 2.4MB]({{< baseurl >}}/resources/chap13_sec_emd))  
+Sections 13.0-13.3 ({{% resource_link 2dd7e7ca-7067-a558-ceec-f6dee9af8019 "PDF - 2.4MB" %}})  
   
-Problems ([PDF]({{< baseurl >}}/resources/chap13_prb_emd))
+Problems ({{% resource_link 4e436b35-8eac-c2ea-f958-5f83bc7d68ce "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +110,7 @@ Problems ([PDF]({{< baseurl >}}/resources/chap13_prb_emd))
 **Chapter 14: Electromechanical Coupling with Viscous Fluids, pp. 861-894**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2MB]({{< baseurl >}}/resources/chap14_emd))
+({{% resource_link 4507f267-db52-8756-bbae-162f5d0d62cf "PDF - 1.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,9 +123,9 @@ Problems ([PDF]({{< baseurl >}}/resources/chap13_prb_emd))
 Problems, p. 894
 {{< tdclose >}}
 {{< tdopen >}}
-Sections 14.0-14.3 ([PDF - 1.2MB]({{< baseurl >}}/resources/chap14_sec_emd))  
+Sections 14.0-14.3 ({{% resource_link 9884994f-83be-642c-8cd5-bf9ceab69a1a "PDF - 1.2MB" %}})  
   
-Problems ([PDF]({{< baseurl >}}/resources/chap14_prb_emd))
+Problems ({{% resource_link 1a4830b5-1fdf-b8c9-0ec7-02c6dfdd014b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

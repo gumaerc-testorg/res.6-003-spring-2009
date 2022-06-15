@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'Part I: Discrete Systems, Chapter 2: Lumped Electromechanical Elements,
+  Chapter 3: Lumped-Parameter Electromechanics, Chapter 4: Rotating Machines, Chapter
+  5: Lumped-Parameter Electromechanical Dynamics, and Chapter 6: Fields and Moving
+  Media,'
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Part I
@@ -30,7 +34,7 @@ FILES
 **Chapter 1: Introduction, pp. 1-14**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/chap01_emd))
+({{% resource_link 30694a67-8fc3-bf6f-c974-e329ab1f0571 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -50,7 +54,7 @@ FILES
 **Chapter 2: Lumped Electromechanical Elements, pp. 15-59**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.9MB]({{< baseurl >}}/resources/chap02_emd))
+({{% resource_link fd5c1c96-30d5-1dd8-76ee-b90405096918 "PDF - 1.9MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,9 +67,9 @@ FILES
 Problems, pp. 55-59
 {{< tdclose >}}
 {{< tdopen >}}
-Sections 2.0-2.3 ([PDF - 1.9MB]({{< baseurl >}}/resources/chap02_sec_emd))  
+Sections 2.0-2.3 ({{% resource_link 3aad30fb-6cbd-7a29-67af-20f9ae2d52c6 "PDF - 1.9MB" %}})  
   
-Problems ([PDF]({{< baseurl >}}/resources/chap02_prb_emd))
+Problems ({{% resource_link 07fe202d-9990-6548-b7c6-df491d05f0a3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +78,7 @@ Problems ([PDF]({{< baseurl >}}/resources/chap02_prb_emd))
 **Chapter 3: Lumped-Parameter Electromechanics, pp. 60-102**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.1MB]({{< baseurl >}}/resources/chap03_emd))
+({{% resource_link c6b4266d-e588-586b-8d05-d8613908fe91 "PDF - 2.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,9 +91,9 @@ Problems ([PDF]({{< baseurl >}}/resources/chap02_prb_emd))
 Problems, pp. 88-102
 {{< tdclose >}}
 {{< tdopen >}}
-Sections 3.0-3.3 ([PDF - 1.2MB]({{< baseurl >}}/resources/chap03_sec_emd))  
+Sections 3.0-3.3 ({{% resource_link 8645558d-1eff-4002-68c5-6422a8048673 "PDF - 1.2MB" %}})  
   
-Problems ([PDF]({{< baseurl >}}/resources/chap03_prb_emd))
+Problems ({{% resource_link 139e5856-3412-f68e-dc86-83c6c6ea2685 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +102,7 @@ Problems ([PDF]({{< baseurl >}}/resources/chap03_prb_emd))
 **Chapter 4: Rotating Machines, pp. 103-178**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 4.3MB]({{< baseurl >}}/resources/chap04_emd))
+({{% resource_link 30dd7268-8208-782b-ff48-5372c57bd3c3 "PDF - 4.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,9 +115,9 @@ Problems ([PDF]({{< baseurl >}}/resources/chap03_prb_emd))
 Problems, pp. 165-178
 {{< tdclose >}}
 {{< tdopen >}}
-Sections 4.0-4.3 ([PDF - 3.8MB]({{< baseurl >}}/resources/chap04_sec_emd))  
+Sections 4.0-4.3 ({{% resource_link cadf4356-562a-a1bf-2a84-3d40632d38aa "PDF - 3.8MB" %}})  
   
-Problems ([PDF]({{< baseurl >}}/resources/chap04_prb_emd))
+Problems ({{% resource_link e4c7b859-31a8-8d66-0082-4987b430d3e9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +126,7 @@ Problems ([PDF]({{< baseurl >}}/resources/chap04_prb_emd))
 **Chapter 5: Lumped-Parameter Electromechanical Dynamics, pp. 179-250**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.8MB]({{< baseurl >}}/resources/chap05_emd))
+({{% resource_link eaf0e827-fdb8-28cd-19b0-e61eb59f58f7 "PDF - 3.8MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,9 +139,9 @@ Problems ([PDF]({{< baseurl >}}/resources/chap04_prb_emd))
 Problems, pp. 233-250
 {{< tdclose >}}
 {{< tdopen >}}
-Sections 5.0-5.3 ([PDF - 2.5MB]({{< baseurl >}}/resources/chap05_sec_emd))  
+Sections 5.0-5.3 ({{% resource_link 675d3fae-55da-f94e-1294-023422cd0d6c "PDF - 2.5MB" %}})  
   
-Problems ([PDF - 1.4MB]({{< baseurl >}}/resources/chap05_prb_emd))
+Problems ({{% resource_link f37d56e1-7d89-ed4a-6ba3-a034a77c2c55 "PDF - 1.4MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -146,7 +150,7 @@ Problems ([PDF - 1.4MB]({{< baseurl >}}/resources/chap05_prb_emd))
 **Chapter 6: Fields and Moving Media, pp. 251-329**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.9MB]({{< baseurl >}}/resources/chap06_emd))
+({{% resource_link 874e67fa-eea4-9df7-965b-ce880b75e0ea "PDF - 3.9MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,9 +165,9 @@ Problems ([PDF - 1.4MB]({{< baseurl >}}/resources/chap05_prb_emd))
 Problems, pp. 317-329
 {{< tdclose >}}
 {{< tdopen >}}
-Sections 6.0-6.5 ([PDF - 3.2MB]({{< baseurl >}}/resources/chap06_sec_emd))  
+Sections 6.0-6.5 ({{% resource_link 11a33a67-46d6-ec9c-156a-2412c246e7f9 "PDF - 3.2MB" %}})  
   
-Problems ([PDF]({{< baseurl >}}/resources/chap06_prb_emd))
+Problems ({{% resource_link 231963d8-9e3b-ada0-0e54-ed9955b7c162 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
