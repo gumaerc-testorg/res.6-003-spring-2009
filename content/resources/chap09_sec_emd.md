@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-6-003-electromechanical-dynamics-spring-2009/88a79b067885206f8fe7f5baf69fe226_chap09_sec_emd.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Part II
 parent_type: SupplementalResourceSection
