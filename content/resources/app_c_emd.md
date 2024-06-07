@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-6-003-electromechanical-dynamics-spring-2009/847c66be5e2e365356695a291803ccdc_app_c_emd.pdf
+file_size: 60101
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
