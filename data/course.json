@@ -37,9 +37,10 @@
     "website": "res-6-003-electromechanical-dynamics-spring-2009"
   },
   "course_title": "Electromechanical Dynamics",
+  "hide_download": false,
   "course_description": "First published in 1968 by John Wiley and Sons, Inc., _Electromechanical Dynamics_ discusses the interaction of electromagnetic fields with media in motion. The subject combines classical mechanics and electromagnetic theory and provides opportunities to develop physical intuition. The book uses examples that emphasize the connections between physical reality and analytical models. Types of electromechanical interactions covered include rotating machinery, plasma dynamics, the electromechanics of biological systems, and magnetoelasticity.\n\nAn accompanying [solutions manual](/courses/res-6-003-electromechanical-dynamics-spring-2009/pages/solutions-manual) for the problems in the text is provided.\n",
   "department_numbers": [
-    "RES"
+    "6"
   ],
   "extra_course_numbers": "",
   "primary_course_number": "RES.6-003",
