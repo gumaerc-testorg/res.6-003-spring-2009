@@ -49,10 +49,11 @@
     "website": "res-6-003-electromechanical-dynamics-spring-2009"
   },
   "learning_resource_types": [
-    "Online Textbook",
+    "Open Textbooks",
     "Problem Sets with Solutions"
   ],
   "site_uid": "20dcbf90-890d-4f64-a053-acc75c610a7f",
   "site_short_id": "res.6-003-spring-2009",
+  "site_url_path": "courses/res-6-003-electromechanical-dynamics-spring-2009",
   "title": "Course Metadata"
 }

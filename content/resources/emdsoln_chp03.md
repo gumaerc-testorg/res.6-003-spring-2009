@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-6-003-electromechanical-dynamics-spring-2009/c061fddb7f3d5215830ddf695efbc78c_emdsoln_chp03.pdf
+file: /ol-ocw-studio-app/courses/res-6-003-electromechanical-dynamics-spring-2009/c061fddb7f3d5215830ddf695efbc78c_emdsoln_chp03.pdf
 file_size: 625814
 file_type: application/pdf
 learning_resource_types: []
